@@ -1,4 +1,4 @@
-
+- uses: geode-sdk/build-geode-mod@main
 name: Build Mbot for Android
 
 on:
