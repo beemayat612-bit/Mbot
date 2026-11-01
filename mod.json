@@ -1,0 +1,11 @@
+{
+  "geode": "5.8.2",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "beemayat612-bit.mbot",
+  "name": "Mbot",
+  "version": "1.0.0",
+  "developer": "beemayat612-bit",
+  "description": "Replay bot for Geometry Dash"
+}
